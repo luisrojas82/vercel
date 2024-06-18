@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Mundo del Sabor</title>
+</head>
+
+<body>
+    <header>
+        <img src="IMG-20240527-WA0013.jpg" alt="Mundo del Sabor Logo">
+        <!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Postres deliciosos</title>
+  <style>
+    body {
+      font-family: sans-serif;
+    }
+    
+    .contenedor {
+      width: 80%;
+      margin: 0 auto;
+    }
+    
+    .titulo {
+      text-align: center;
+      font-size: 2rem;
+      margin-bottom: 20px;
+    }
+    
+    .postre {
+      margin-bottom: 20px;
+      border: 1px solid #ccc;
+      padding: 10px;
+    }
+    
+    .postre img {
+      width: 100%;
+      height: 200px;
+      object-fit: cover;
+    }
+    
+    .postre h3 {
+      margin-top: 10px;
+    }
+    
+    .postre p {
+      margin-bottom: 0;
+    }
+  </style>
+</head>
+<body>
+  <div class="contenedor">
+    <h1 class="titulo">Postres deliciosos</h1>
+    
+    <div class="postre">
+      <img src="[585159193b49838bd0b259d74775e848.jpg]" alt="Fresas con crema">
+      <h3>Fresas con crema</h3>
+      <p>Un clásico postre refrescante con fresas dulces y crema batida.</p>
+    </div>
+    
+    <div div class="postre">
+      <img src="[f663f340e68ab87e269399d3f5d92ca1.jpg]" alt="Durazno con crema">
+      <h3>Durazno con crema</h3>
+      <p>Un postre cremoso y afrutado con duraznos maduros y crema batida.</p>
+    </div>
+    
+    <div class="postre">
+      <img src="[94881842271cc5e9cd584b8e5fe24ee3.jpg]" alt="Gelatina con yogurt">
+      <h3>Gelatina con yogurt</h3>
+      <p>Un postre ligero y saludable con gelatina fresca y yogurt natural.</p>
+    </div>
+    
+    <div class="postre">
+      <img src="[62b91beab13dc066f9e7b80df01deb81.jpg]" alt="Pay de limón">
+      <h3>Pay de limón</h3>
+      <p>Un postre ácido y dulce con un relleno cremoso de limón y una crujiente base de galleta.</p>
+    </div>
+  </div>
+</body>
+</html>
+
+        <h1>Mundo del Sabor</h1>
+    </header>
+    <section>
+        <h2>Misión</h2>
+        <p>Crear productos de buena calidad a un precio racionable, dando al cliente una experiencia placentera y un
+            buen servicio.</p>
+    </section>
+    <section>
+        <h2>Visión</h2>
+        <p>La empresa se localizará en distintas partes de la ciudad en puntos estratégicos para lograr buenas ventas y
+            expandirse a tres sucursales a medio plazo.</p>
+    </section>
+    <section>
+        <footer>
+            <p>Integrantes:
+                Alan Sánchez.
+                Oscar González.
+                Luis Ángel Rojas.
+                Ángel Iván Cabrera</p>
+        </footer>
+</body>
+
+</html>
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Microempresa de Repostería</title>
+</head>
+
+<body>
+    <header>
+        <h1>Microempresa de Repostería</h1>
+    </header>
+    <section>
+        <h2>Filosofía</h2>
+        <p>Trata al cliente como familia.</p>
+    </section>
+    <section>
+        <h2>Objetivos Estratégicos</h2>
+        <p>Atender y dar un buen servicio para que el cliente se vaya satisfecho de nuestras instalaciones, dando como
+            resultado una experiencia placentera
+        <h3> Contabilidad y Finanzas</h3>
+        <p>Se contratará un contador para que lleve a cabo las cuestiones económicas.</p>
+    </section>
+
+    </h4> Marketing y Ventas</h4>
+
+    </p>Estrategia de Marketing:la técnica del bueno el feo y del malo: consiste en ofrecer tres precios distintos de un
+    producto ejemplo: un postre chico por $15, mediano por $20 y grande $30.</p> 
+    </section>
+  <h5>Atención al Cliente</h5>
+   
+        <p> Implementación de un sistema para gestionar la relación con los clientes y asegurar su satisfacción.Implementación de un sistema para gestionar la relación con los clientes y asegurar su satisfacción.</p>
+</section >
+    <section>
+
+    <h6> Normas y Permisos </h6>
+    </section>
+    <p> Regulaciones Sanitarias:Se buscaría la forma de tener todo conforme a las
+        normativas.
+        Licencias y Permisos: Se renovarán año con año.</p>
+</section>
+    <section></section>
+
+    <h7> Seguridad y Mantenimiento</h7>
+    <p> Seguridad en el Trabajo: Se les daría de alta en el seguro social.
+        Mantenimiento de Equipos Programa rutinas de mantenimiento para el equipo de repostería.</p>
+
+    <section>
+    </section>
+    <h8>Anexos</h8>
+    <p> Recetas Estándar: Añadirá las recetas base que definen tu oferta de productos.
+        Proveedores: Se buscaría un proveedor que sus productos sean de buena calidad y sea accesible para las dos
+        partes.</p> 
+    
+        
+    </footer>
+</body>
+
+</html>
